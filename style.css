@@ -51,6 +51,12 @@
     background-color: #6ddaff;
     box-shadow: 0 0 20px #fff;
 }
+
+
+
+
+
+
 .inicio .contenido-seccion .foto{
     position: relative;
 }
@@ -63,6 +69,22 @@
     top: -100px;
     transform: translateX(-50%);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .titulo-seccion{
     font-family: "Yellowtail";
     font-size: 1.5rem;
@@ -110,6 +132,33 @@
     margin: 8px 0;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .contacto{
     background-color: #ffff55;
     padding: 140px 0 100px 0;
@@ -143,6 +192,40 @@
 .col a{
     color: #000;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media screen and (max-width:800px){
     .habilidades .contenido-seccion .fila{
