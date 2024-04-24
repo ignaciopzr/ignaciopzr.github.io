@@ -198,8 +198,28 @@ nav ul li a:hover {
 
 
 
+@media screen and (max-width:800px){
+    .portada {
+        display: block;
 
-@media only screen and (max-width: 600px) {
+    }
+    .portada img{
+        width: 80%;
+        margin: auto;
+    }
+   
+    .sobremi .contenido-seccion .fila{
+        display: block;
+    }
+    .sobremi .contenido-seccion .fila .col{
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+    }
+   
+    .contacto .contenido-seccion .fila{
+        display: block;
+    }
     header {
         padding: 20px 20px; 
     }
@@ -222,13 +242,7 @@ nav ul li a:hover {
         margin: 10px 0; 
     }
 
-    .portada img {
-        height: auto; 
-    }
 }
-
-
-@media only screen and (min-width: 601px) and (max-width: 1024px) {
     
 }
 
